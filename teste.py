@@ -10,4 +10,4 @@ for t in (1,3,5,7,9,11,13,15):
                 print(t,y,z)
                 x=30
 print(x)
-print("Eu consegui.")
+print("Eu consegui fazer isso.")
